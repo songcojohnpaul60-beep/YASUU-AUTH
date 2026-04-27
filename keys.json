@@ -1,10 +1,15 @@
 {
   "FREE_KEYS": [
-    {"key": "FREE-YASUU-88", "duration": 1},
-    {"key": "FREE-TRIAL-99", "duration": 1}
+    {
+      "key": "FREE-TRIAL",
+      "duration": 1
+    }
   ],
   "VIP_KEYS": [
-    {"key": "VIP-SONGCO-30D", "duration": 30, "hwid": "d027f8a192b3c4e5"},
-    {"key": "VIP-USER-PRO", "duration": 30, "hwid": "ANY"}
+    {
+      "key": "VIP-YASUU-01",
+      "duration": 30,
+      "hwid": "d027f8a192b3c4e5"
+    }
   ]
 }
